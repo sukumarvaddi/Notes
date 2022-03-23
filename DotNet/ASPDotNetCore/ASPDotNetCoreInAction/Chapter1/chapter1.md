@@ -13,7 +13,7 @@ The framework provides libraries to make following tasks easy.
 - Logging client requests
 - Common structure for building web application.
 - Providing Custom configurations through files and reading those files.
-- Serving static content (images, js etc.)
+- Serving static content (images, CSS, JS etc.)
 
 > History of ASP.NET Core
 
